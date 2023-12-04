@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @oren24
 - 👀 I’m interested in:
--     Python,
--     java,
--     SQL,
--     Data Scince, 
--     A.I. & machine Learning,
+-     Python
+-     java
+-     SQL
+-     JS and TypeScript
+-     Data Scince
+-     A.I. & machine Learning
 -     video games
 -     
 - 🌱 I’m currently study for B.Sc. in industrial engineering and management in Shenkar
