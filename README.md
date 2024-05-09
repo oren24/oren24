@@ -12,7 +12,7 @@
 - 🌱 I’m currently study for B.Sc. in industrial engineering and management in Shenkar
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
--     [oren.dro@gmail.com](oren.dro@gmail.com)
+-     oren.dro@gmail.com
 -     [linkedin](https://www.linkedin.com/in/oren-drori-9b2069202)
 
 <!---
