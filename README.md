@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oren24
+- 👋 Hi, I’m Oren
 - 👀 I’m interested in:
 -     Python
 -     java
@@ -7,11 +7,13 @@
 -     Data Scince
 -     A.I. & machine Learning
 -     video games
+- 
 -     
 - 🌱 I’m currently study for B.Sc. in industrial engineering and management in Shenkar
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
--     oren.dro@gmail.com
+-     [oren.dro@gmail.com](oren.dro@gmail.com)
+-     [linkedin](https://www.linkedin.com/in/oren-drori-9b2069202)
 
 <!---
 oren24/oren24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
